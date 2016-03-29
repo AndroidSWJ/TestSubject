@@ -5,4 +5,5 @@ public class TouchActivity{
 	//nobita пч╦дак
 	//swj 02
 	//nobita 03
+	//swj 03
 }
