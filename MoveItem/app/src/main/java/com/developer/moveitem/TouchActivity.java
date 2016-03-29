@@ -3,5 +3,4 @@ public class TouchActivity{
 	private int time;
 	private int money;
 	//nobita пч╦дак
-	//swj 01
 }
