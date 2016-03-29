@@ -6,4 +6,5 @@ public class TouchActivity{
 	//swj 02
 	//nobita 03
 	//swj 03
+	//swj 04
 }
